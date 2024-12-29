@@ -51,7 +51,7 @@
 
 ---
 
-## Host 3: 192.168.1.12 (Your Device)
+## Host 3: 192.168.1.12 (My Device)
 - **Status**: Up (0.00039s latency)
 
 ### Open Ports and Services:
